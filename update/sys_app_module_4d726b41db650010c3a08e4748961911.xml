@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test-001">c5722b41db650010c3a08e4748961960</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>test-001s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_406231_test_001_test_001</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_406231_test_001.test_001_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 19:35:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d726b41db650010c3a08e4748961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test-001s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test-001" source="x_406231_test_001">2112af01db650010c3a08e47489619c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test-001">2112af01db650010c3a08e47489619c6</sys_scope>
+        <sys_update_name>sys_app_module_4d726b41db650010c3a08e4748961911</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 19:35:58</sys_updated_on>
+        <timeline_page/>
+        <title>test-001s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
